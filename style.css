@@ -1,0 +1,64 @@
+body{
+color:#1e2021 !important;
+}
+
+h1{
+font-weight:bolder;
+}
+
+.col-md-4{
+font-size:30px;
+text-align: center;
+font-weight:bold;
+position: relative;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+width: 50%;
+height: 30%;
+margin: auto;
+}
+a{
+color:#1e2021;
+}
+.mini{
+font-size:21px !important;
+
+}
+
+body{
+    background: -webkit-linear-gradient(#d8e2e5, #e9e9e9); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#d8e2e5, #e9e9e9); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#d8e2e5, #e9e9e9); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#d8e2e5, #d8dcfc, #e9e9e9); /* Standard syntax */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family:'Fira+Sans';
+}
+
+#header{
+padding: auto;
+background:rgba(255, 255, 255, 0.2);
+border: 1px solid white;
+border-radius: 10px;
+}
+
+img{
+width: 90px;
+border-radius:5px;
+}
+
+.col-md-4{
+padding:10px;
+
+}
+
+.row{
+background:rgba(255, 255, 255, 0.2);
+border: 1px solid white;
+border-radius: 10px;
+width:100%;
+margin: auto;
+}
